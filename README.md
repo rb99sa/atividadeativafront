@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coffee Shops Tia Rosa</title>
-    <link rel="stylesheet" href="C:\Users\rob19\OneDrive\Escritorio\styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
