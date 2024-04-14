@@ -13,13 +13,13 @@
     </header>
     <nav>
         <ul>
-            <li><a href="#Menu Principal">Menu</a></li>
-            <li><a href="#lendereço">Locations</a></li>
-            <li><a href="#Contato">Contact</a></li>
+            <li><a href="#Menu Principal">MenuPrincipal</a></li>
+            <li><a href="#lendereço">Localização</a></li>
+            <li><a href="#Contato">Contato</a></li>
         </ul>
     </nav>
     <main>
-        <section id="menu">
+        <section id="menuPrincipal">
             <h2>Menu</h2>
             <p>
                 <article class="item">
@@ -39,12 +39,12 @@
                 <p class="price">R$ 2.50 (un)</p>
             </article>.</p>
         </section>
-        <section id="locations">
-            <h2>Locations</h2>
+        <section id="localização">
+            <h2>Localização</h2>
             <p>Rua Tabelião Raimundo José Rocha, n° 130, Bairro DER</p>
         </section>
-        <section id="contact">
-            <h2>Contact</h2>
+        <section id="Contato">
+            <h2>Contato</h2>
             <p>Telefones para contato:<br>
                 (89) 3562-1210 <br>  
                 (89) 99945-7654<br>
@@ -52,7 +52,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 Coffee Shops Tia Rosa</p>
+        <p>&copy; 2024 Coffee Shops Tia Rosa</p>
     </footer>
 </body>
 </html>
